@@ -8,5 +8,10 @@ namespace kata1
 {
     internal class Class1
     {
+        public void pokreniProces() 
+        {
+            //nista ne pise
+        }
+
     }
 }
